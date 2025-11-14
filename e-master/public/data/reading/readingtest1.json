@@ -1,0 +1,171 @@
+{
+  "passageTitle": "Andrea Palladio - Italian Architect",
+  "section": "Reading Passage 1",
+  "passageText": {
+    "A": "Vicenza is a pleasant, prosperous city in the Veneto, 60km west of Venice. Its grand families settled and farmed the area from the 16th century. But its principal claim to fame is Andrea Palladio, who is such an influential architect that a neoclassical style is known as Palladian. The city is a permanent exhibition of some of his finest buildings, and as he was born – in Padua, to be precise – 500 years ago, the International Centre for the Study of Palladio’s Architecture has an excellent excuse for mounting la grande mostra, the big show.",
+    "B": "The exhibition has the special advantage of being held in one of Palladio’s buildings, Palazzo Barbaran da Porto. Its bold façade is a mixture of rustication and decoration set between two rows of elegant columns. On the second floor the pediments are alternately curved or pointed, a Palladian trademark. The harmonious proportions of the atrium at the entrance lead through to a dramatic interior of fine fireplaces and painted ceilings. Palladio’s design is simple, clear and not over-crowded. The show has been organised on the same principles, according to Howard Burns, the architectural historian who co-curated it.",
+    "C": "Palladio’s father was a miller who settled in Vicenza, where the young Andrea was apprenticed to a skilled stonemason. How did a humble miller’s son become a world renowned architect? The answer in the exhibition is that, as a young man, Palladio excelled at carving decorative stonework on columns, doorways and fireplaces. He was plainly intelligent, and lucky enough to come across a rich patron, Gian Giorgio Trissino, a landowner and scholar, who organised his education, taking him to Rome in the 1540s, where he studied the masterpieces of classical Roman and Greek architecture and the work of other influential architects of the time, such as Donato Bramante and Raphael.",
+    "D": "Burns argues that social mobility was also important. Entrepreneurs, prosperous from agriculture in the Veneto, commissioned the promising local architect to design their country villas and their urban mansions. In Venice the aristocracy were anxious to co-opt talented artists, and Palladio was given the chance to design the buildings that have made him famous – the churches of San Giorgio Maggiore and the Redentore, both easy to admire because they can be seen from the city’s historical centre across a stretch of water.",
+    "E": "He tried his hand at bridges – his unbuilt version of the Rialto Bridge was decorated with the large pediment and columns of a temple – and, after a fire at the Ducal Palace, he offered an alternative design which bears an uncanny resemblance to the Banqueting House in Whitehall in London. Since it was designed by Inigo Jones, Palladio’s first foreign disciple, this is not as surprising as it sounds.",
+    "F": "Jones, who visited Italy in 1614, bought a trunk full of the master’s architectural drawings; they passed through the hands of Dukes of Burlington and Devonshire before settling at the Royal Institute of British Architects in 1894. Many are now on display at Palazzo Barbaran. What they show is how Palladio drew on the buildings of ancient Rome as models. The major theme of both his rural and urban building was temple architecture, with a strong pointed pediment supported by columns and approached by wide steps.",
+    "G": "Palladio’s work for rich landowners alienates unreconstructed critics on the Italian left, but among the papers in the show are designs for cheap housing in Venice. In the wider world, Palladio’s reputation has been nurtured by a text he wrote and illustrated, “Quattro Libri dell’ Architettura”. His influence spread to St Petersburg and to Charlottesville in Virginia, where Thomas Jefferson commissioned a Palladian villa he called Monticello.",
+    "H": "Vicenza’s show contains detailed models of the major buildings and is leavened by portraits of Palladio’s teachers and clients by Titian, Veronese and Tintoretto; the paintings of his Venetian buildings are all by Canaletto, no less. This is an uncompromising exhibition; many of the drawings are small and faint, and there are no sideshows for children, but the impact of harmonious lines and satisfying proportions is to impart in a viewer a feeling of benevolent calm. Palladio is history’s most therapeutic architect.",
+    "I": "“Palladio, 500 Anni: La Grande Mostra” is at Palazzo Barbaran da Porto, Vicenza, until January 6th 2009. The exhibition continues at the Royal Academy of Arts, London, from January 31st to April 13th, and travels afterwards to Barcelona and Madrid."
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "The building where the exhibition is staged has been newly renovated.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 2,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "Palazzo Barbaran da Porto typically represent the Palladio’s design.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE"
+    },
+    {
+      "questionNumber": 3,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "Palladio’s father worked as an architect.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE"
+    },
+    {
+      "questionNumber": 4,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "Palladio’s family refused to pay for his architectural studies.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN"
+    },
+    {
+      "questionNumber": 5,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "Palladio’s alternative design for the Ducal Palace in Venice was based on an English building.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE"
+    },
+    {
+      "questionNumber": 6,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "Palladio designed both wealthy and poor people.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE"
+    },
+    {
+      "questionNumber": 7,
+      "questionType": "TRUE_FALSE_NOT_GIVEN",
+      "questionText": "The exhibition includes paintings of people by famous artists.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE"
+    },
+    {
+      "questionNumber": 8,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "What job was Palladio training for before he became an architect?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "Stonemason"
+    },
+    {
+      "questionNumber": 9,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "Who arranged Palladio’s architectural studies?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "Gian Giorgio Trissino"
+    },
+    {
+      "questionNumber": 10,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "Who was the first non-Italian architect influenced by Palladio?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "Inigo Jones"
+    },
+    {
+      "questionNumber": 11,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "What type of Ancient Roman buildings most heavily influenced Palladio’s work?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "Temple"
+    },
+    {
+      "questionNumber": 12,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "What did Palladio write that strengthened his reputation?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "Quattro Libri dell’ Architettura"
+    },
+    {
+      "questionNumber": 13,
+      "questionType": "SHORT_ANSWER",
+      "questionText": "In the writer’s opinion, what feeling will visitors to the exhibition experience?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "correctAnswer": "benevolent calm"
+    }
+  ],
+  "readingBandConversion": {
+    "academic": {
+      "39-40": 9.0,
+      "37-38": 8.5,
+      "35-36": 8.0,
+      "33-34": 7.5,
+      "30-32": 7.0,
+      "27-29": 6.5,
+      "23-26": 6.0,
+      "19-22": 5.5,
+      "15-18": 5.0,
+      "13-14": 4.5,
+      "10-12": 4.0,
+      "7-9": 3.5,
+      "5-6": 3.0,
+      "3-4": 2.5,
+      "1-2": 2.0
+    },
+    "generalTraining": {
+      "40": 9.0,
+      "39": 8.5,
+      "37-38": 8.0,
+      "36": 7.5,
+      "34-35": 7.0,
+      "32-33": 6.5,
+      "30-31": 6.0,
+      "27-29": 5.5,
+      "23-26": 5.0,
+      "19-22": 4.5,
+      "15-18": 4.0,
+      "12-14": 3.5,
+      "9-11": 3.0,
+      "6-8": 2.5
+    }
+  }
+}

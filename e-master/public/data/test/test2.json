@@ -1,0 +1,22 @@
+{
+"listening": [
+{ "name": "Listening Test 04", "file": "listening/listeningtest4.json" },
+{ "name": "Listening Test 05", "file": "listening/listeningtest5.json" },
+{ "name": "Listening Test 06", "file": "listening/listeningtest6.json" }
+],
+"reading": [
+{ "name": "Reading Test 04", "file": "reading/readingtest4.json" },
+{ "name": "Reading Test 05", "file": "reading/readingtest5.json" },
+{ "name": "Reading Test 06", "file": "reading/readingtest6.json" }
+],
+"writing": [
+{ "name": "Writing Test 04", "file": "writing/writingtest4.json" },
+{ "name": "Writing Test 05", "file": "writing/writingtest5.json" },
+{ "name": "Writing Test 06", "file": "writing/writingtest6.json" }
+],
+"speaking": [
+{ "name": "Speaking Test 04", "file": "speaking/speakingtest4.json" },
+{ "name": "Speaking Test 05", "file": "speaking/speakingtest5.json" },
+{ "name": "Speaking Test 06", "file": "speaking/speakingtest6.json" }
+]
+}
